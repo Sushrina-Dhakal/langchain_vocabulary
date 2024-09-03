@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-google-genai
+python-dotenv
+langchain-community
+tiktoken
+lark
+redis
+
+
